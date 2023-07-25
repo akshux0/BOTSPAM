@@ -47,7 +47,7 @@ START_PIC = getenv("START_PIC", None)
 
 
 HELP_MSG = getenv("HELP_MSG", None)
-HELP_PIC = getenv("HELP_PIC", "https://graph.org/file/89ed7d3a2bd8aa2c61385.jpg")
+HELP_PIC = getenv("HELP_PIC", "https://te.legra.ph/file/4e51b649639fd3ef5f06c.jpg")
 LOG_CHANNEL = getenv("LOG_CHANNEL", None)
 
 HANDLER = getenv("HANDLER", "/")
